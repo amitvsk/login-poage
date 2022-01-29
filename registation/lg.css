@@ -8,6 +8,7 @@
     display: inline-block;
     min-height: 450px;
     border-radius: 20px;
+    float: left;
 }
 .container2{
    
@@ -44,6 +45,9 @@ body{
 }
 #container{
     margin: auto;
+    border-radius: 2px solid rgb(94, 83, 105);
+    box-sizing: border-box;
+    padding: 10px; 
 
 }
 input{
